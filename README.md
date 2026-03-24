@@ -1,7 +1,7 @@
 # Song Genre Analysis and Recommendation System
 
 ## Description
-This project analyzes song lyrics and their genres using Natural Language Processing (NLP). By applying TF-IDF (Term Frequency - Inverse Document Frequency), the algorithm assigns higher weights to unique, meaningful words rather than common prepositions. Singular Value Decomposition (SVD) is then used to reduce the dimensionality of the text matrix, allowing us to map and visualize the songs in a geometric space based on their latent topics. The project also features a Telegram bot that acts as a recommendation system, suggesting similar songs using cosine similarity.
+This project analyzes song lyrics and their genres using matrix decomposition. By applying TF-IDF (Term Frequency - Inverse Document Frequency), the algorithm assigns higher weights to unique, meaningful words rather than common prepositions. Singular Value Decomposition (SVD) is then used to reduce the dimensionality of the text matrix, allowing us to map and visualize the songs in a geometric space based on their latent topics. The project also features a Telegram bot that acts as a recommendation system, suggesting similar songs using cosine similarity.
 
 ## Project Structure
 
